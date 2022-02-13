@@ -1,0 +1,72 @@
+.button-manager {
+    margin-left: 8px;
+}
+/*F:\WORK\covid\src\main\frontend\src\images\Actions-document-edit-icon-48.png*/
+.patient {
+    background: white url("F:\WORK\covid\src\main\frontend\src\images\Person-Male-Light-icon-48.png") no-repeat !important
+}
+
+.user {
+    background: white url("F:\WORK\covid\src\main\frontend\src\images\user-48.png") no-repeat !important
+}
+
+.add {
+    background: white url("F:\WORK\covid\src\main\frontend\src\images\new-icon-48.png") no-repeat !important
+}
+
+.update {
+    background: white url("F:\WORK\covid\src\main\frontend\src\images\Actions-document-edit-icon-48.png") no-repeat !important
+}
+
+.delete {
+    background: white url("F:\WORK\covid\src\main\frontend\src\images\Actions-edit-delete-icon-48.png") no-repeat !important
+}
+
+.detail {
+    background: white url("F:\WORK\covid\src\main\frontend\src\images\Actions-help-about-icon-48.png") no-repeat !important
+}
+
+.formHome {
+    border: 10px solid #f1f1f1;
+    background: white;
+    height: 100%;
+}
+
+input {
+    margin-left: 10px;
+    width: 60% !important;
+}
+
+span {
+    padding: 20px;
+}
+
+.titleHeader {
+    width: 200px;
+    border: 2px solid rgba(0, 0, 0, .125) !important;
+    color: black !important;
+    padding: 3px;
+    background-color: white !important;
+}
+
+.carBodyUpdate {
+    border: 1px solid rgba(0, 0, 0, .125) !important;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.avatar {
+    width: 400px !important;
+    height: 400px !important;
+}
+
+.buttonAction {
+    margin-right: 4px;
+    border: 1px solid #0000001F !important;
+    color: black !important;
+    background-color: white !important;
+}
+
+
